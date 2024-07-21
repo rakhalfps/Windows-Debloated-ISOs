@@ -8,7 +8,7 @@
 
 **ISO Size：** 1.60GB
 
-**Download：** [zh-TW](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.240721/26120.1252_240721.iso)
+**Download：** [zh-TW](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.240721/26120.1252_240721.iso)、[zh-TW_archive](https://archive.org/download/26120.1252-240721/26120.1252_240721.iso)
 
 **SHA-256：** d742c7da84d46c82361a56ae9b7a87060de1e1bff75c3b40e02f84921577b96c
 
