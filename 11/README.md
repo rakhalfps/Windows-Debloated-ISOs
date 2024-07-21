@@ -12,6 +12,9 @@
 
 **SHA-256：** d742c7da84d46c82361a56ae9b7a87060de1e1bff75c3b40e02f84921577b96c
 
+**Notice：**
+- If you need to use Store, please install [restore-pack](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/restore-pack).
+
 ----
 
 **Preview：**
