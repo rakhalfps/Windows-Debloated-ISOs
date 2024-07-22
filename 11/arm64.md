@@ -1,5 +1,42 @@
 # <img src="/icons/windows-11.svg"> Windows 11 ARM64
 
+[![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FWhatTheBlock%2FWindowsSimplify.json%3Fcolor%3Dblue)](https://github.com/WhatTheBlock/WindowsSimplify)
+
+**Edition：** Windows 11 Pro
+
+**OS Build：** 26120.1252
+
+**ISO Size：** 
+- Level 1: 1.39GB
+- Level 2: 1.36GB
+
+**Download：** 
+- [en-US_Level1](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.arm.240722/26120.1252_arm_en_240722.iso)
+- [en-US_Level2](https://github.com/WhatTheBlock/WindowsSimplify/releases/download/w11.arm.240722/26120.1252_arm_en_240722_lv2.iso)
+
+**SHA-256：** 
+- Level 1: fcc7a51548e18d9bfb0f4d7ac95ab08e7e7028bd73e774b3c97a93fc31fbbbc7
+- Level 2: 7d555e9d07c0a3cbc484df6d42ba51873f5fdbb18de11564889ecaaa48f01ac0
+
+**Notice：**
+- This system is not suitable for daily use.
+- The start menu cannot be used in Level 2. If File Explorer cannot be opened, please use the control panel to modify the address bar as the directory path.
+
+**Benchmarks：(Geekbench v6.3.0)**  
+Device：Mac mini M2  
+VM：4 core / 4GB  
+1. Parallels Desktop v19.4.1
+    - Level 2: [2374 / 6849](https://browser.geekbench.com/v6/cpu/7008777)
+    - Level 1: [2374 / 6726](https://browser.geekbench.com/v6/cpu/7007757)
+    - Unmodified: [2296 / 6195](https://browser.geekbench.com/v6/cpu/7008548)
+2. VMware Fusion v13.5.2
+    - Level 1: [2321 / 6770](https://browser.geekbench.com/v6/cpu/7008018)
+    - Unmodified: [2122 / 4755](https://browser.geekbench.com/v6/cpu/7008368)
+3. UTM v4.5.3
+    - Level 2: [2360 / 6018](https://browser.geekbench.com/v6/cpu/7009159)
+
+----
+
 **Preview：**
 ![1](https://github.com/WhatTheBlock/WindowsSimplify/blob/master/preview/22631.2861_arm_p_cn_231219.png)
 
