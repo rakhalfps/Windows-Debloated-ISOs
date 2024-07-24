@@ -27,11 +27,12 @@
 - [精簡系統](/7/README.md)
 
 <img src="/icons/windows-server.svg">　<b>Windows Server：</b>
-- [Win10](/server/README.md)
-- [Win11](/server/w11.md)
+- [2022](/server/README.md)
+- [2025](/server/2025.md)
 
 <b>其他：</b>
 - [boot.wim](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/boot)
+- [Restore-pack](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/restore-pack)
 
 ----
 
