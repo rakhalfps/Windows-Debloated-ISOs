@@ -38,11 +38,12 @@ I have uploaded a tutorial video. For language issues, please ask others to help
 - [Link](/7/README.md)
 
 <img src="/icons/windows-server.svg">　<b>Windows Server：</b>
-- [Win10](/server/README.md)
-- [Win11](/server/w11.md)
+- [2022](/server/README.md)
+- [2025](/server/2025.md)
 
 <b>Other stuff：</b>
 - [boot.wim](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/boot)
+- [Restore-pack](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/restore-pack)
 
 ----
 
