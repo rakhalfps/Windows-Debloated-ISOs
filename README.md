@@ -1,54 +1,96 @@
-# Windows Simplify Project
+# Windows Debloated ISOs ⚡️  
+*Lightweight, clean, and fast Windows ISOs for every use case.*
 
-<b>[中文](/README_zh-TW.md)</b>
+---
 
-----
+## About Windows Debloated ISOs  
+> Windows Debloated ISOs is a community-driven project that offers stripped-down, optimized Windows ISO images for Windows 7, 8.1, 10, 11, and Windows Server editions. Designed to improve system performance, reduce bloatware, and enhance privacy by disabling telemetry and unnecessary background services.
 
-<b>No bullshit, no exaggerated introduction, just download and try yourself.</b><br>
+---
 
-----
+## 📥 Available ISO Editions
 
-### 📣 Announcement
+> All downloads are official ISO builds optimized and cleaned for performance and privacy.
 
-This project will be discontinued soon.
+| Edition             | Description                  | Download Link                               |
+|---------------------|------------------------------|---------------------------------------------|
+| **Windows 11 AMD64** | Standard, fast, no bloat     | [Download](./11/README.md)                   |
+| **Windows 11 Tablet**| Optimized for tablets        | [Download](./11/tablet.md)                   |
+| **Windows 11 ARM64** | ARM64 architecture support   | [Download](./11/arm64.md)                    |
+| **Windows 10 Pure**  | Clean base Windows 10        | [Download](./10/README.md)                   |
+| **Windows 10 Extreme** | Ultra lightweight edition  | [Download](./10/extreme.md)                  |
+| **Windows 10 Tablet**| Tablet-optimized build       | [Download](./10/tablet.md)                   |
+| **Windows 8.1 Full** | Complete Windows 8.1 ISO     | [Download](./8.1/README.md)                  |
+| **Windows 7 Full**   | Complete Windows 7 ISO       | [Download](./7/README.md)                     |
+| **Windows Server 2022** | Server edition            | [Download](./server/README.md)                |
+| **Windows Server 2025** | Upcoming server build     | [Download](./server/2025.md)                   |
 
-Player in this single-player game have no health points.
+---
 
-I have uploaded a tutorial video. For language issues, please ask others to help translate.
+## 🔧 Extras
 
-[https://www.youtube.com/watch?v=Rly7AVPOncQ](https://www.youtube.com/watch?v=Rly7AVPOncQ)
+- **boot.wim**  
+  > Essential boot file for repair and recovery tools.  
+  [Download from Releases](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/boot)
 
-----
+- **Restore Pack**  
+  > Tools and scripts to restore system settings.  
+  [Download from Releases](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/restore-pack)
 
-<img src="/icons/windows-11.svg">　<b>Windows 11：</b>
-- [AMD64](/11/README.md)
-- [AMD64 - Tablet](/11/tablet.md)
-- [ARM64](/11/arm64.md)
+---
 
-<img src="/icons/windows-10.svg">　<b>Windows 10：</b>
-- [Pure](/10/README.md)
-- [Extreme Lite](/10/extreme.md)
-- [Tablet](/10/tablet.md)
-- [Others](/10/others.md)
+## ⚡ Why Choose Windows Debloated ISOs?
 
-<img src="/icons/windows-8.svg">　<b>Windows 8.1：</b>
-- [Link](/8.1/README.md)
+- 🚀 Boosted performance and faster boot times  
+- 🔒 Privacy-first: telemetry disabled  
+- ❌ No ads, no Cortana, no unnecessary UWP apps  
+- ⚙️ Full control over updates and Defender  
+- 🎮 Ideal for gamers, developers, and older hardware  
+- 🧓 Lightweight builds great for legacy PCs
 
-<img src="/icons/windows-7.svg">　<b>Windows 7：</b>
-- [Link](/7/README.md)
+---
 
-<img src="/icons/windows-server.svg">　<b>Windows Server：</b>
-- [2022](/server/README.md)
-- [2025](/server/2025.md)
+## 📖 How It Works
 
-<b>Other stuff：</b>
-- [boot.wim](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/boot)
-- [Restore-pack](https://github.com/WhatTheBlock/WindowsSimplify/releases/tag/restore-pack)
+> 1. Start with an official Windows ISO  
+> 2. Remove bloatware and disable telemetry  
+> 3. Disable background services for better speed  
+> 4. Apply performance tweaks and system optimizations  
+> 5. Build clean, ready-to-install ISO images  
 
-----
+---
 
-### 💡 Other projects you may be interested in:
-- Only included Word, Excel, PowerPoint  
-  👉 [Office Lite 2024](https://github.com/WhatTheBlock/Office-Lite)
-- Remove the useless GeForce Experience  
-  👉 [NVIDIA GeForce Driver Lite](https://github.com/WhatTheBlock/GeForce-Driver-Lite)
+## ⚠️ Disclaimer
+
+> - This project is **not affiliated with or endorsed by Microsoft**.  
+> - Use at your own risk. Some software or updates may not work perfectly.  
+> - Redistribution or resale is prohibited.  
+
+---
+
+## 🤝 Support & Community
+
+> If you find Windows Debloated ISOs useful, please:  
+> - ⭐ Star this repo  
+> - 🔄 Share with others  
+> - 💬 Join discussions and contribute  
+
+---
+
+## 📊 Project Stats
+
+[![Latest Release](https://img.shields.io/github/v/release/WhatTheBlock/WindowsSimplify)](https://github.com/WhatTheBlock/WindowsSimplify/releases/latest)  
+[![Total Downloads](https://img.shields.io/github/downloads/WhatTheBlock/WindowsSimplify/total)](https://github.com/WhatTheBlock/WindowsSimplify/releases)  
+[![License](https://img.shields.io/github/license/WhatTheBlock/WindowsSimplify)](https://github.com/WhatTheBlock/WindowsSimplify/blob/main/LICENSE)  
+
+---
+
+## Connect & Follow
+
+> Questions or feedback? Join the community discussions or open an issue on GitHub.
+
+---
+
+*Stay fast. Stay clean. Stay simplified.*  
+Windows Debloated ISOs by WhatTheBlock
+Forked by Rakhalfps
